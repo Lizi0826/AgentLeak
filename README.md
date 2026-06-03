@@ -4,3 +4,5 @@ This repository contains a Chinese-localized version of the AgentLeak benchmark.
 
 - `AgentLeak/`: Chinese-localized benchmark
 - `AgentLeak_en/`: original English baseline
+
+Experiment result data are stored in `AgentLeak/benchmarks/ieee_repro/results_zh/` and `AgentLeak_en/benchmarks/ieee_repro/results/`.
